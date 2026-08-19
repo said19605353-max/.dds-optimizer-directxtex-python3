@@ -1,0 +1,1 @@
+# .dds-optimizer-directxtex-python3
